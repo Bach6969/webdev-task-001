@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+.vocab-list {
+    padding-left: 20px; /* default bullet styling */
+}
+
+.vocab-item {
+    margin-bottom: 10px;
+}
+
+.vocab-word {
+    font-weight: bold;
+}
